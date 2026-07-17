@@ -1,0 +1,1 @@
+export default function ThemeToggle({ dark, toggle }) { return <button onClick={toggle} aria-label="Toggle dark mode" className="rounded-full border border-slate-200 px-3 py-2 text-sm font-semibold dark:border-slate-700">{dark ? '☀ Light' : '☾ Dark'}</button>; }
