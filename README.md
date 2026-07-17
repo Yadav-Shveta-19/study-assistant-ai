@@ -51,6 +51,3 @@ Authentication, cloud-synced study history, spaced repetition, accessibility aud
 
 Designed as a focused take-home implementation; further visual polish and test coverage would be the next investment.
 
-## Screenshots / demo video
-
-Add deployed-app screenshots and a short walkthrough link here before submission.
